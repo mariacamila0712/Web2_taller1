@@ -22,3 +22,24 @@ p{
     text-align: justify;
     color: black;
 }
+
+#html{
+border-radius: 70px;
+width: 160px;
+height: 100px;
+filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.7));
+}
+
+#css{
+    border-radius: 70px;
+    width: 160px;
+    height: 100px;
+    filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.7));
+    }
+
+#javascript{
+    border-radius: 70px;
+    width: 160px;
+    height: 100px;
+    filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.7));
+}
